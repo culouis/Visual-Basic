@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Depreciation-VB", "Depreciation-VB\Depreciation-VB.vbproj", "{9E39569F-322A-43BB-85DB-0367B6E08950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E39569F-322A-43BB-85DB-0367B6E08950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E39569F-322A-43BB-85DB-0367B6E08950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E39569F-322A-43BB-85DB-0367B6E08950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E39569F-322A-43BB-85DB-0367B6E08950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1CA4710B-7E9D-414A-AF1B-A73F5A15B943}
+	EndGlobalSection
+EndGlobal
